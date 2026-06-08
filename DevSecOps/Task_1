@@ -1,1 +1,27 @@
 
+DevOps focuses on speed, automation, and collaboration.
+DevSecOps adds security at every stage of the DevOps lifecycle ("Shift Left Security").
+
+Devops tools
+Version Control	Git	Source code management
+Code Repository	GitHub	Store and collaborate on code
+CI/CD	Jenkins	Automate build, test, and deployment
+Containerization	Docker	Package applications into containers
+Container Orchestration	Kubernetes	Manage containers at scale
+Infrastructure as Code	Terraform	Create cloud infrastructure using code
+Configuration Management	Ansible	Automate server configuration
+Monitoring	Prometheus	Collect metrics and monitoring
+Visualization	Grafana	Dashboards and monitoring reports
+Cloud Platform	Amazon Web Services (AWS)	Cloud infrastructure and services
+
+
+DevSecOps Security Tools
+Security Area	Tool	Use
+Code Quality & SAST	SonarQube	Find bugs, vulnerabilities, code smells
+Container Scanning	Trivy	Scan Docker images for vulnerabilities
+Dependency Scanning	Snyk	Detect vulnerable libraries/packages
+IaC Security	Checkov	Scan Terraform and CloudFormation code
+Dynamic Security Testing	OWASP ZAP	Test running web applications
+Secrets Detection	Gitleaks	Detect passwords, API keys in code
+Kubernetes Security	kube-bench	Check Kubernetes security best practices
+Cloud Security	Prowler	AWS security assessment
