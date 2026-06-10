@@ -6,3 +6,5 @@ Day 5:
 mv source destination
 mv also used to rename
 mv current name chnaged name
+rm cmd used remove any files
+rm -r remove directory recursively
