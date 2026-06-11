@@ -9,3 +9,13 @@ mv current name chnaged name
 rm cmd used remove any files
 rm -r remove directory recursively
 cp used for COPY files same as mv
+
+Day 6:
+
+Permission & ownership
+
+chown
+chmod
+useradd
+groupadd
+
