@@ -1,1 +1,14 @@
-Start tomorrow
+Start tomorrow:
+
+Session 1: Git solves this problem by keeping history changes
+
+Flow of Git:
+
+Working Area: Staging Arega :local Repo: Remote Repo
+Basic Cmd:
+
+git init
+git status
+git add
+git commit
+git log
